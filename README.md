@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Frontend Mentor - Social Proof Section Solution
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
--  [Live Site URL](https://your-live-site-url.com)
+-  [Live Site URL](https://frontend-mentor-socialproof-section.netlify.app/)
 
 
 ### Built with
